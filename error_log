@@ -1,0 +1,47 @@
+[24-Oct-2024 20:13:58 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/haiwebmy/shop.marioardi.dev/orders.php on line 12
+[24-Oct-2024 20:14:00 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/haiwebmy/shop.marioardi.dev/orders.php on line 12
+[24-Oct-2024 20:18:17 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/haiwebmy/shop.marioardi.dev/orders.php on line 12
+[24-Oct-2024 20:18:18 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/haiwebmy/shop.marioardi.dev/orders.php on line 12
+[24-Oct-2024 20:18:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/haiwebmy/shop.marioardi.dev/orders.php on line 8
+[24-Oct-2024 20:19:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/haiwebmy/shop.marioardi.dev/orders.php on line 8
+[24-Oct-2024 20:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/haiwebmy/shop.marioardi.dev/order.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/haiwebmy/shop.marioardi.dev/order.php on line 27
+[24-Oct-2024 20:55:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 28
+[24-Oct-2024 20:58:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 31
+[24-Oct-2024 20:59:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 31
+[24-Oct-2024 21:07:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 31
+[24-Oct-2024 21:11:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 31
+[24-Oct-2024 21:44:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 31
+[25-Oct-2024 11:54:22 UTC] PHP Warning:  require(dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:54:22 UTC] PHP Warning:  require(dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:54:22 UTC] PHP Fatal error:  require(): Failed opening required 'dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:12 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:12 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:13 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:14 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:14 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:15 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.devdompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:51 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.dev/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.dev/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:51 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.dev/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.dev/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:52 UTC] PHP Warning:  require(/home/haiwebmy/shop.marioardi.dev/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:55:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/haiwebmy/shop.marioardi.dev/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:56:04 UTC] PHP Warning:  require(/shop.marioardi.dev/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:56:04 UTC] PHP Fatal error:  require(): Failed opening required '/shop.marioardi.dev/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:56:05 UTC] PHP Warning:  require(/shop.marioardi.dev/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:56:05 UTC] PHP Fatal error:  require(): Failed opening required '/shop.marioardi.dev/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:57:06 UTC] PHP Warning:  require(/shop.marioardi.dev/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:57:06 UTC] PHP Fatal error:  require(): Failed opening required '/shop.marioardi.dev/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/haiwebmy/shop.marioardi.dev/generate_pdf.php on line 2
+[25-Oct-2024 11:59:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 35
+[25-Oct-2024 12:02:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 52
+[25-Oct-2024 12:03:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 69
+[25-Oct-2024 12:14:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/haiwebmy/shop.marioardi.dev/orders.php on line 69
