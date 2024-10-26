@@ -27,3 +27,9 @@ Misalnya, jika aplikasi Anda bernama my_shop, letakkan di C:\xampp\htdocs\my_sho
 Akses Aplikasi:
 
 Buka browser dan ketik http://localhost/my_shop untuk mengakses aplikasi Anda.
+
+
+
+Akses admin : login.php
+username : admin
+password : admin123
