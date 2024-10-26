@@ -21,7 +21,7 @@
 
         function closePopup() {
             document.getElementById('successPopup').style.display = 'none';
-            window.location.href = 'https://shop.marioardi.dev'; // Redirect ke halaman utama
+            window.location.href = 'https://localhost'; // Redirect ke halaman utama
         }
 
         window.onload = function() {
