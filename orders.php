@@ -68,9 +68,9 @@
                 <?php
                 session_start();
                 $host = 'localhost';
-                $db = 'haiwebmy_shop';
-                $user = 'haiwebmy_shop';
-                $pass = 'mercusuar123';
+                $db = 'db_shop';
+                $user = 'root';
+                $pass = '';
 
                 $conn = new mysqli($host, $user, $pass, $db);
 
